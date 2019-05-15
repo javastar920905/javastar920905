@@ -1,28 +1,28 @@
 # Basic
-title: 潘柏信
+title: blog for abby
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到abby的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: abby
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 前端 / vue
+url: "https://javabus.cn"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: javastar920905
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726 
+    github: javastar920905
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: javastar920905@163.com
 
 
 # 百度统计 
@@ -41,7 +41,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮原作者star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
