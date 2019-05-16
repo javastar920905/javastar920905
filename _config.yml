@@ -1,14 +1,14 @@
 port: 3000
 host: 0.0.0.0
 # Basic
-title: blog for abby
+title: 爱折腾的爪哇猿
 subtitle: 个人站
 description: 欢迎来到abby的个人站~
 # 头像里面的标题
-avatarTitle: abby
+avatarTitle: 爱折腾的爪哇猿
 # 头像里面的描述
-avatarDesc: 前端 / vue
-url: "https://javabus.cn"
+avatarDesc: 后台 / java
+url: "http://javastar920905.coding.me/"
 
 # Comment
 comment:
@@ -30,13 +30,13 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: a39f4e8f52fa5936c51bd2880900559e  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+# ga:
+#     id: xxxx  
+#     host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -62,11 +62,11 @@ cover_color: clear
 blog_button:
     title: 博客主页
 
-# Navigation buttons in the front page.s
+# 导航栏按钮
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 所有文章, description: archive, url: 'archive/'}   
+    - {title: 标签, description: tags, url: '/tags/'}      
+    - {title: 关于我, description: about, url: '/about/'}      
     
 
 # Pagination
