@@ -29,8 +29,9 @@ tag: 工具
   > * 返回注册腾讯云开发者平台>选择当前博客项目
   > * 代码浏览,开启pages服务,等待代码构建完成
   > * [查看演示demo](http://linying1223.coding.me)
+  > * 如果下次push的代码没有生效,可以在pages服务页面 点击刷新按钮
 
-到此为止,博客搭建完成. 以后就可以继续使用cloud studio 进行写博客了
+congratulation! 博客搭建完成. 以后就可以继续使用cloud studio 进行写博客了
 
 ## 使用cloud studio 云环境写博客
 * [直接打开 cloud studio ](https://studio.dev.tencent.com/dashboard/workspace)
@@ -41,6 +42,9 @@ tag: 工具
   > * cloud studio 右侧添加访问链接,端口为3000 即可预览效果了
   > * 以后只需要在_post 目录下编写markdown博客即可
 
+## 尝试自己修改博客样式
+- [x] 查看项目readme 熟悉目录结构
+- [ ] 修改成自己喜欢的样式
 
 ## Markdown 教程
 [cmd Markdown](https://www.zybuluo.com/mdeditor) 作业部落出版的Markdown编辑器 
