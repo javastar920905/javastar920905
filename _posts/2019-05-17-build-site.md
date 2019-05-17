@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用jekyll创建博客
-date: 2016-06-02 11:15:06 
+date: 2019-05-07 23:01:00 
 tag: 工具
 ---
 
@@ -32,7 +32,7 @@ tag: 工具
 
 到此为止,博客搭建完成. 以后就可以继续使用cloud studio 进行写博客了
 
-## 使用cloud studio 写博客
+## 使用cloud studio 云环境写博客
 * [直接打开 cloud studio ](https://studio.dev.tencent.com/dashboard/workspace)
   > * gem install jekyll bundler (安装 jekyll,gem 是ruby包管理工具)
   > * bundle install 
