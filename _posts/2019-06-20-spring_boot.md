@@ -48,7 +48,7 @@ spring boot 用了几年了,可是突然回想一下,我又说不出所以然.�
   * [ Spring Boot轻松理解动态注入，删除bean【从零开始学Spring Boot】](https://412887952-qq-com.iteye.com/blog/2348445)
 
 ## 最后给大家带来一个520 彩蛋
-* [520 表白神器](https://www.lovestory.hk/)
+* [520 表白神器](https://javabus.cn/lovestory.html)
   
   
 
