@@ -41,6 +41,7 @@ congratulation! 博客搭建完成. 以后就可以继续使用cloud studio 进�
   > * ./start.sh 
   > * cloud studio 右侧添加访问链接,端口为3000 即可预览效果了
   > * 以后只需要在_post 目录下编写markdown博客即可
+  > * 发现一个bug, 今天520 日期,精确到时分秒后,文章无法生成. 保留到当前日期即可
 
 ## 尝试自己修改博客样式
 - [x] 查看项目readme 熟悉目录结构
