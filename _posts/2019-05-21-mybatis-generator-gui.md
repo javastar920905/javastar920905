@@ -26,10 +26,11 @@ mybatis-generator界面工具，让你生成代码更简单更快捷
 <img src="/images/posts/mybatisgui/mybatis_gui.png"   >  
 
 
-## 针对spring boot 手脚架进行定制 [spring-boot-api-project-seed](https://github.com/java-frame/spring-boot-api-project-seed)
-* [x] 自定义修改完成 [查看github  spring-boot-api-project-seed分支](https://github.com/javastar920905/mybatis-generator-gui/tree/spring-boot-api-project-seed) 
+## 针对spring boot 手脚架进行定制 
+> 改源码: 想加一个生成controller和service 代码,同时集成通用mapper的功能
+* [x] 项目结构分析,完善项目代码注释
 * [x] 添加生成controller和service 代码的功能  
-* [x] 完善生成代码注释 [目录结构分析](http://localhost:3000/#/books/3.java/java_gui)
+* [x] 基于spring boot 手脚架项目进行自定义修改 [查看github  spring-boot-api-project-seed分支](https://github.com/javastar920905/mybatis-generator-gui/tree/spring-boot-api-project-seed) 
 
 ```
 1 找到生成代码入口 MainUIController#generateCode
@@ -38,3 +39,13 @@ GeneratorConfig generatorConfig = getGeneratorConfigFromUI(); 从ui界面获取�
 2 在 MybatisGeneratorBridge#generate 读取配置的属性,添加生成自定义代码功能
 
 ```
+
+## 基于自定义模板ftl 生成controller, service
+> 通过修改源码,添加了功能: 基于自定义模板ftl 生成controller, service ,mybatis 代码 (只计划维护 mysql数据库)
+
+本工具发布jar 包和 exe 形式 (大小和方便程度,供用户选择): 
+* [jar包方式 需要命令行启动 java -jar mybatis-generator-gui.jar -13MB](https://javabus.oss-cn-beijing.aliyuncs.com/code-gen-gui-jar.zip)
+* [双击启动exe 文件方式 - 100MB](https://javabus.oss-cn-beijing.aliyuncs.com/code-gen-gui-jar.zip)
+* [github 地址](https://github.com/javastar920905/mybatis-generator-gui/tree/gen-controller-service-mybatis)  查看 **gen-controller-service-mybatis** 分支
+ 
+自定义ftl模板说明,请查看解压后的 readme.txt
