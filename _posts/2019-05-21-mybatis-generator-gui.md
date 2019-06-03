@@ -7,6 +7,9 @@ tag: mybatis
 
 mybatis-generator界面工具，让你生成代码更简单更快捷
 
+如果你用的是idea 进行开发,更加推荐 EasyCode插件 [EasyCode 个人有道云笔记总结 配置备份](http://note.youdao.com/noteshare?id=1602e6bf67f66b7df774a78a0eb61076&sub=07E9AE76FFDE49088BB2A6BEF96304C7)
+
+
 ## gui界面工具加载
 * [点击直接下载构建好的工具](https://javabus.oss-cn-beijing.aliyuncs.com/mybatis-generator-gui.jar)
 * 或者自助构建  [github 地址](https://github.com/javastar920905/mybatis-generator-gui)
