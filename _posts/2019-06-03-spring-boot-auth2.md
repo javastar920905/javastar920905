@@ -82,13 +82,16 @@ GitHub 返回令牌.
 > * A 网站使用令牌，向 GitHub 请求用户数据。
 
 ### spring boot oauth2
-- [ ] spring boot
-- [ ] spring boot Security
-- [ ] spring boot oauth2
+因为没有在项目中使用到spring boot Security 做权限校验框架,需要从头开始学习
+[学习demo 托管在github](https://github.com/javastar920905/springboot-learn) 
+- [x] spring boot 入门
+- [x] spring boot Security 入门
+- [ ] spring boot oauth2 项目中没有用到没有耐心学习下去啦,有需要的参考下面文档学习吧
 
 ## 参考文档
 - [理解OAuth 2.0-阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 - [OAuth 2.0 的一个简单解释-阮一峰的网络日志](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html) 
-- [社区 Spring Security 从入门到进阶系列教程](http://www.spring4all.com/article/428)
+- [社区 Spring Security 从入门到进阶系列教程](http://www.spring4all.com/article/428) 推荐,作者文章给力
+- [学习demo 托管在github](https://github.com/javastar920905/springboot-learn) 
 - [springboot2整合oauth2](https://blog.csdn.net/qq_37170583/article/details/80704660)
 
