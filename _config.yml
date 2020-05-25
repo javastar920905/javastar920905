@@ -1,5 +1,5 @@
 port: 3000
-host: 0.0.0.0
+#host: 0.0.0.0
 # Basic
 title: 爱折腾的爪哇猿
 subtitle: 个人站
@@ -8,7 +8,7 @@ description: 欢迎来到zyan的个人站~
 avatarTitle: 爱折腾的爪哇猿
 # 头像里面的描述
 avatarDesc: 后台 / java
-url: "http://javastar920905.coding.me/"
+url: "http://javastar920905.gitee.io/"
 
 # Comment
 comment:

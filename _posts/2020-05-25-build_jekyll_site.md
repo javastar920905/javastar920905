@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用jekyll创建博客
-date: 2020-05-26 00:40:00 
+date: 2020-05-25 
 tag: 工具
 ---
 
@@ -14,6 +14,8 @@ tag: 工具
 ## 工具准备
 * [注册腾讯云开发者平台- coding dev ops](https://dev.tencent.com/login) 微信登录即可
   * 平时可以使用 任务看板 安排自己的计划
+  * [cloud studio 使用教程文档](https://cloudstudio.net/docs)
+  * [在线调试预览教程文档](https://cloudstudio.net/docs/guide/preview.html#%E5%90%AF%E5%8A%A8%E9%A2%84%E8%A7%88%E7%AA%97%E5%8F%A3)
   
 * 使用命令行推送已存在的仓库
   * [访问 cloud studio 主页](https://javabus.cloudstudio.net/dashboard/workspace)
@@ -59,16 +61,18 @@ tag: 工具
 
    // 5 构建网站并启动一个本地服务器。
    bundle exec jekyll serve
-   以后只需要在_post 目录下编写markdown博客即可        
+   以后只需要在_post 目录下编写markdown博客即可   
+        
+   遇到一个问题,有些文章会显示不出来,解决方式 (date: 2020-05-25 ,不显示时分秒即可)
   ```
 
-##  部署项目到gitee pages
-```
+* 部署项目到gitee pages
+  ```
    进入到你的博客,所在代码仓库
    代码浏览,选择"服务"菜单,开启gitee pages服务,等待代码构建完成
    [查看演示博客](https://javastar920905.gitee.io)
    如果下次push的代码没有生效,可以在pages服务页面 点击刷新按钮(一般有几分钟的延迟)
-```
+  ```
 congratulation! 博客搭建完成. 以后就可以继续使用cloud studio 进行写博客了
 
 
