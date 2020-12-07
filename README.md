@@ -1,5 +1,5 @@
 # Jekyll 博客
-* [Jekyll 搭建博客 总结文档](http://javabus.cn/#/books/enjoy/1.3jekyll)
+* [Jekyll 搭建博客 总结文档](https://javastar920905.gitee.io/mdbook/#/books/enjoy/1.3jekyll)
 ## [目录结构介绍](http://jekyllcn.com/docs/structure/)
 ```
 .

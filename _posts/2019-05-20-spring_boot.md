@@ -11,7 +11,7 @@ spring boot 用了几年了,可是突然回想一下,我又说不出所以然.�
 本文不是spring boot 入门教程,记录的目的是对spring boot的快速回顾. 如果没有使用过spring boot 的童鞋,请在下面参考文档中找入门教程资源.
 
 ## 参考文档
-* [spring boot 系列资源](https://javabus.cn/#/books/3.java/2.spring)
+* [spring boot 系列资源](https://javastar920905.gitee.io/mdbook/#/books/3.java/2.spring)
 
 因为上面文档列举了大量学习资源,所以可以直接使用别人比较系统的文档进行要点回顾
 
@@ -48,7 +48,7 @@ spring boot 用了几年了,可是突然回想一下,我又说不出所以然.�
   * [ Spring Boot轻松理解动态注入，删除bean【从零开始学Spring Boot】](https://412887952-qq-com.iteye.com/blog/2348445)
 
 ## 最后给大家带来一个520 彩蛋
-* [520 表白神器](https://javabus.cn/lovestory.html)
+* [520 表白神器](https://javastar920905.gitee.io/mdbook/lovestory.html)
   
   
 

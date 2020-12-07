@@ -66,7 +66,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive/'}   
     - {title: 标签, description: tags, url: '/tags/'}      
-    - {title: javabus.cn, description: doc, url: 'https://javabus.cn',target: '_blank'}      
+    - {title: javabus.cn, description: doc, url: 'https://javastar920905.gitee.io/mdbook/',target: '_blank'}      
     - {title: 关于我, description: about, url: '/about/'}    
     
 
